@@ -8,11 +8,12 @@ ol {
 }
 address {
     font-style: normal;
-}
+} 
+body {font-family: Montserrat, sans-serif;
+    color: 2E2F42;
+    background-color: #FFFFFF }
 
-
-/* header */
-
+/*  header  */
 
 /* Заголовок,кнопка і наші навички */
 
